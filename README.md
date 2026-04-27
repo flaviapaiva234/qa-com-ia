@@ -38,7 +38,7 @@ Durante o desenvolvimento deste projeto, utilizei o **NotebookLM** para:
 
 ### 🖥️ Print do ambiente utilizado
 
-Abaixo, um print mostrando o NotebookLM com as fontes carregadas e um prompt em ação:
+Abaixo, um print do NotebookLM com múltiplas fontes carregadas e a IA sendo utilizada para análise e geração de insights sobre o conteúdo:
 
 ![NotebookLM em ação](./imagens/notebooklm-print.png)
 
